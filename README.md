@@ -9,6 +9,68 @@
 📧 laljipradyum98@gmail.com
 
 ---
+<h2>🚀 Featured Projects</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏠 <a href="https://github.com/pradyumlalji/neubie-dashboard">neubie-dashboard</a></h3>
+      <p>
+        <strong>PropTech Platform</strong><br />
+        PG discovery and property management platform.
+      </p>
+      <p>
+        <code>Next.js</code>
+        <code>React</code>
+        <code>Node.js</code>
+        <code>PostgreSQL</code>
+        <code>AWS</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/pradyumlalji/agent-monitoring">agent-monitoring</a></h3>
+      <p>
+        <strong>Monitoring Dashboard</strong><br />
+        Data-driven monitoring dashboard focused on operational workflows,
+        filtering and real-time-style interfaces.
+      </p>
+      <p>
+        <code>React</code>
+        <code>TypeScript</code>
+        <code>Data Visualization</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/pradyumlalji/js-practice">js-practice</a></h3>
+      <p>
+        <strong>JavaScript & Frontend Engineering</strong><br />
+        JavaScript fundamentals, DSA and frontend machine-coding
+        implementations.
+      </p>
+      <p>
+        <code>JavaScript</code>
+        <code>React</code>
+        <code>TypeScript</code>
+        <code>DSA</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ <a href="https://github.com/pradyumlalji/neubie-backend">neubie-backend</a></h3>
+      <p>
+        <strong>Backend Engineering</strong><br />
+        Backend services and APIs supporting the Neubie platform.
+      </p>
+      <p>
+        <code>Node.js</code>
+        <code>Express.js</code>
+        <code>PostgreSQL</code>
+      </p>
+    </td>
+  </tr>
+</table>
+---
 
 ### 🧭 Navigation
 
