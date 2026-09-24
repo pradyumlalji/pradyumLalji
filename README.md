@@ -106,7 +106,7 @@ maintainable user experiences.
 
 ---
 
-# 🚀 Engineering Highlights
+# 🚀 Work Expierence Highlights
 
 <table>
   <tr>
