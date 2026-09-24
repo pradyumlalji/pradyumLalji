@@ -95,7 +95,7 @@ DSA practice and frontend interview implementations.
 
 [GitHub](https://github.com/pradyumlalji)
 
-📧 laljilearning@gmail.com
+📧 laljipradyum98@gmail.com
 
 ---
 
