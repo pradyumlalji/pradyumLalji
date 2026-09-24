@@ -1,23 +1,3 @@
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/pradyumlalji/neubie-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pradyumlalji&repo=neubie-dashboard" />
-  </a>
-  <a href="https://github.com/pradyumlalji/agent-monitoring">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pradyumlalji&repo=agent-monitoring" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/pradyumlalji/js-practice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pradyumlalji&repo=js-practice" />
-  </a>
-  <a href="https://github.com/pradyumlalji/neubie-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pradyumlalji&repo=neubie-backend" />
-  </a>
-</p>
-
 # Pradyum Lalji
 
 ### Senior Software Engineer — Frontend | Fullstack Engineer — Frontend Heavy
